@@ -1,0 +1,16 @@
+body {
+    font-family:Kablammo;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center; 
+    
+
+ }
+
+ p{
+    text-align:center;
+    font-size:xx-large;
+    /* yada xxlarge yerine 1em 2em yazılabilirdik.yada %90 gibi yapabilirdik.  */
+ }
